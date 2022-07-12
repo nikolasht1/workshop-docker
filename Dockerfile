@@ -16,5 +16,5 @@ ENV PYTHONUNBUFFERED=1
 
 EXPOSE 5000
 
-CMD [ "python3", "api.py", "-m" , "flask", "run", "--host=127.0.0.1"]
+CMD [ "python3", "api.py", "-m" , "flask", "run", "--host=0.0.0.0"]
 #CMD ["python3", "api.py"]
