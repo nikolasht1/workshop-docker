@@ -1,5 +1,5 @@
-Flask-SQLAlchemy
-Flask
+flask-SQLAlchemy
+flask
 pymysql
 python-dotenv
 sqlalchemy
